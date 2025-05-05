@@ -1,3 +1,5 @@
+https://jupyter.org/install 
+
 Here's a step-by-step guide to help you get started with [Jupyter](https://jupyter.org/) for developing Python projects, including Gen AI, AI, or ML apps.
 -------------------------------------------------------------------------------------------------------------------------------------
 
